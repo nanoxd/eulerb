@@ -1,7 +1,4 @@
-first = 0
-second = 1
-i = 0
-sum = 0
+first, second, i, sum = 0, 1, 0, 0
 
 while i <= 4_000_000
   i = first + second
